@@ -68,6 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 ###Testing
+To test app use : npm start
+then test it on postman
+
+To test backend-use : node server.js
+Then test it on Postman
+
+TESTING URLS:
+GET : http://localhost:5000/tasks
+POST : http://localhost:5000/tasks
+PUT : http://localhost:5000/tasks
+DELETE : http://localhost:5000/tasks/2
+(Note :  you can chage port number according to your syatem)
+
+POSTMAN LINK
+https://api.postman.com/collections/35319322-f24422d7-06a5-4597-adf4-8dddc26ebc32?
+
+
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
